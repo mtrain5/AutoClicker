@@ -1,0 +1,14 @@
+C:\Users\marcu\MouseAutomation\bin\Release\net8.0\MouseAutomation.exe
+C:\Users\marcu\MouseAutomation\bin\Release\net8.0\MouseAutomation.deps.json
+C:\Users\marcu\MouseAutomation\bin\Release\net8.0\MouseAutomation.runtimeconfig.json
+C:\Users\marcu\MouseAutomation\bin\Release\net8.0\MouseAutomation.dll
+C:\Users\marcu\MouseAutomation\bin\Release\net8.0\MouseAutomation.pdb
+C:\Users\marcu\MouseAutomation\obj\Release\net8.0\MouseAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\MouseAutomation\obj\Release\net8.0\MouseAutomation.AssemblyInfoInputs.cache
+C:\Users\marcu\MouseAutomation\obj\Release\net8.0\MouseAutomation.AssemblyInfo.cs
+C:\Users\marcu\MouseAutomation\obj\Release\net8.0\MouseAutomation.csproj.CoreCompileInputs.cache
+C:\Users\marcu\MouseAutomation\obj\Release\net8.0\MouseAutomation.dll
+C:\Users\marcu\MouseAutomation\obj\Release\net8.0\refint\MouseAutomation.dll
+C:\Users\marcu\MouseAutomation\obj\Release\net8.0\MouseAutomation.pdb
+C:\Users\marcu\MouseAutomation\obj\Release\net8.0\MouseAutomation.genruntimeconfig.cache
+C:\Users\marcu\MouseAutomation\obj\Release\net8.0\ref\MouseAutomation.dll

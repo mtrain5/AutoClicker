@@ -1,0 +1,14 @@
+C:\Users\marcu\MouseAutomation\obj\Debug\net8.0\MouseAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\MouseAutomation\obj\Debug\net8.0\MouseAutomation.AssemblyInfoInputs.cache
+C:\Users\marcu\MouseAutomation\obj\Debug\net8.0\MouseAutomation.AssemblyInfo.cs
+C:\Users\marcu\MouseAutomation\obj\Debug\net8.0\MouseAutomation.csproj.CoreCompileInputs.cache
+c:\Users\marcu\MouseAutomation\bin\Debug\net8.0\MouseAutomation.exe
+c:\Users\marcu\MouseAutomation\bin\Debug\net8.0\MouseAutomation.deps.json
+c:\Users\marcu\MouseAutomation\bin\Debug\net8.0\MouseAutomation.runtimeconfig.json
+c:\Users\marcu\MouseAutomation\bin\Debug\net8.0\MouseAutomation.dll
+c:\Users\marcu\MouseAutomation\bin\Debug\net8.0\MouseAutomation.pdb
+c:\Users\marcu\MouseAutomation\obj\Debug\net8.0\MouseAutomation.dll
+c:\Users\marcu\MouseAutomation\obj\Debug\net8.0\refint\MouseAutomation.dll
+c:\Users\marcu\MouseAutomation\obj\Debug\net8.0\MouseAutomation.pdb
+c:\Users\marcu\MouseAutomation\obj\Debug\net8.0\MouseAutomation.genruntimeconfig.cache
+c:\Users\marcu\MouseAutomation\obj\Debug\net8.0\ref\MouseAutomation.dll
